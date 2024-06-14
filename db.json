@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "3158",
+      "name": "John Doe leo",
+      "email": "akashkakadiya0@gmail.com",
+      "phone": "9558518826",
+      "address": "33,Girnar Society,Opp Patel Park Society,\nNana varachha,surat.",
+      "city": "Surat",
+      "state": "Gujarat",
+      "zip": "395006",
+      "country": "India"
+    },
+    {
+      "id": "6de9",
+      "name": "Akash Kakadiya",
+      "email": "akenterprise90333@gmail.com",
+      "phone": "8140963848",
+      "address": "Opp Patel Park Society,Nana varachha,surat.",
+      "city": "Select City",
+      "state": "Gujarat",
+      "zip": "395006",
+      "country": "India"
+    }
+  ]
+}
